@@ -1,3 +1,5 @@
+console.log ("hi");
+
 //@TODO: Rotation of triangles
 
 const trg1 = document.getElementById("trg1");
